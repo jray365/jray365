@@ -1,0 +1,4 @@
+- Hi, I’m @jray365
+- I’m interested in video game development, aviation, embedded systems software development and testing, and control algorithms
+- I’m currently learning C# and how to use the NI DAQmx API to control the IO on a hardware test bench 
+- Pronouns: he/him
